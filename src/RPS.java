@@ -1,5 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
+//Commit 1
+//Commit 2
+//Commit 3
 
 public class RPS {
 
